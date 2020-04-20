@@ -1,11 +1,10 @@
 # PYG Tracker Backend
 
 
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-
+# What To Know
 PYG is an application which provides users with the ability of creating a User Story (i.e ticket or card) which contains information about what kind of task needs to be performed and then the admin will review the User Story, make changes if required. Admin will be able to approve or reject the User story created by the user.
 
 ## Getting Started
